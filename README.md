@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tasssiooo
 - 🌱 Learning to code by the noble self-taught method.
-- Current learning Front-end, mainly React
+- Current learning front-end and back-end.
 
 <!---
 Tasssiooo/Tasssiooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
