@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tasssiooo
-- 🌱 Learning to code by the noble self-taught method.
-- Currently learning front-end and back-end.
+- 🌱 Learning CS by the noble self-taught method.
+- Currently learning Data Structures and Algorithms in Python.
 
 <!---
 Tasssiooo/Tasssiooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
